@@ -2,3 +2,4 @@
 a repository
 
 hello world trying to learn github
+goodbye
